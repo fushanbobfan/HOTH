@@ -1,0 +1,48 @@
+.about-section {
+    text-align: center;
+    background-color: #FAE9D1;
+    padding: 40px 20px;
+  }
+  
+  .about-section h2 {
+    font-size: 24px;
+    color: #69342C;
+  }
+  
+  .about-section p {
+    font-size: 16px;
+    color: #5A3E36;
+    margin-bottom: 20px;
+  }
+  
+  .about-content {
+    margin-top: 20px;
+  }
+  
+  .about-content h3 {
+    font-size: 20px;
+    color: #69342C;
+  }
+  
+  .about-content p {
+    font-size: 14px;
+    color: #5A3E36;
+  }
+  
+  .about-section .btn {
+    background-color: #69342C;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .responsive-img {
+      width: 70%;  
+      max-width: 400px;  
+      height: auto;  
+      display: block;
+      margin: auto;
+  }

@@ -1,0 +1,23 @@
+.hero {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .hero img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .hero .btn {
+    margin-top: 20px;
+    background-color: #D4A048;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

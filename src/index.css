@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background-color: #F8F1E3;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.btn {
+  background-color: #D4A048;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
